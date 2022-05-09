@@ -1,0 +1,5 @@
+class Config:
+    API = ""
+    APISECRET = ""
+    ACESSTOKEN = ""
+    ACESSTOKENSECRET = ""

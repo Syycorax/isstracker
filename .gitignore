@@ -1,0 +1,5 @@
+__pycache__
+config.py
+iss.log
+cron.log
+country.log
